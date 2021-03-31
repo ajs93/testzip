@@ -4,7 +4,7 @@
             "path": "post_update.sh",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "51ca3ee91efa9e5b5f66c8659bada76ff944ad5459b4a1e24e2ba844ad02f67b"
+            "hash": "7b6d8fd3f77f5ab7d8b5c1858b3489b22b3e9e4da88bce361406fc3ac280265d"
         },
         {
             "path": "rootfs.img",

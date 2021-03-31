@@ -6,8 +6,8 @@
 # corresponding to the last update
 #
 
-ROOTFS_IMG_FILE="/mnt/UDISK/rootfs.img"
-USR_IMG_FILE="/mnt/UDISK/usr.img"
+ROOTFS_IMG_FILE="/tmp/rootfs.img"
+USR_IMG_FILE="/tmp/usr.img"
 
 printf "Post-update script started.\n"
 
@@ -25,7 +25,7 @@ if ! [[ -f "$USR_IMG_FILE" ]]; then
 fi
 
 printf "Reflashing rootfs partition\n"
-dd if=/mnt/UDISK/rootfs.img of=/dev/mmcblk0p2 bs=512
+dd if=$ROOTFS_IMG_FILE of=/dev/mmcblk0p2 bs=512
 
 if [[ $? -ne 0 ]]; then
 	printf "Reflash of rootfs partition failed with exit code: $?\n"
@@ -33,7 +33,7 @@ if [[ $? -ne 0 ]]; then
 fi
 
 printf "Reflashing usr partition\n"
-dd if=/mnt/UDISK/usr.img of=/dev/mmcblk0p3 bs=512
+dd if=$USR_IMG_FILE of=/dev/mmcblk0p3 bs=512
 
 if [[ $? -ne 0 ]]; then
 	printf "Reflash of usr partition failed with exit code: $?\n"
