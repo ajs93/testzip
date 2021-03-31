@@ -16,10 +16,12 @@ printf "Checking that all files are present...\n"
 
 if ! [[ -f "$ROOTFS_IMG_FILE" ]]; then
 	printf "File corresponding to rootfs image not present at: $ROOTFS_IMG_FILE\n"
+	exit 1
 fi
 
 if ! [[ -f "$USR_IMG_FILE" ]]; then
 	printf "File corresponding to usr image not present at: $USR_IMG_FILE\n"
+	exit 1
 fi
 
 printf "Reflashing rootfs partition\n"
@@ -29,7 +31,6 @@ if [[ $? -ne 0 ]]; then
 	printf "Reflash of rootfs partition failed with exit code: $?\n"
 	exit 1
 fi
-
 
 printf "Reflashing usr partition\n"
 dd if=/mnt/UDISK/usr.img of=/dev/mmcblk0p3 bs=512

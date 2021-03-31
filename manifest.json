@@ -1,32 +1,20 @@
 {
     "applications": [
         {
-            "path": "test_file.txt",
-            "dest": "/mnt/UDISK",
-            "compressed": false,
-            "hash": "4c27c9d0b0466a478e83e311874e469e6f56ece4b8814edde10e10c7f8d1c070"
-        },
-        {
-            "path": "dir_test.zip",
-            "dest": "/mnt/UDISK/dir_test",
-            "compressed": true,
-            "hash": "17d90b392574af78491efb186f0045fa919dd5bfe76d1b4766310a9b9a96ad71"
-        },
-        {
             "path": "post_update.sh",
-            "dest": "/mnt/UDISK",
+            "dest": "/tmp",
             "compressed": false,
-            "hash": "251001e7a3ac3c7c9312dce88070383569dedf8f2e145ee41018437aaff2a64f"
+            "hash": "51ca3ee91efa9e5b5f66c8659bada76ff944ad5459b4a1e24e2ba844ad02f67b"
         },
         {
             "path": "rootfs.img",
-            "dest": "/mnt/UDISK",
+            "dest": "/tmp",
             "compressed": false,
             "hash": "13ab8764f49441747d467bc016512ed55941d6d45c9708c79221090a7ceb3fb7"
         },
         {
             "path": "usr.img",
-            "dest": "/mnt/UDISK",
+            "dest": "/tmp",
             "compressed": false,
             "hash": "f17fa6633fa9c3adac2b8b86f201311f3ae7a6c309420e91a1ec8f88c3cfd0e6"
         }
