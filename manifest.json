@@ -22,13 +22,13 @@
             "path": "rootfs.img",
             "dest": "/mnt/UDISK",
             "compressed": false,
-            "hash": "f95324dbf93f5edd29350014bdfe2d88281d9ff18405057393f70ada48633705"
+            "hash": "092bfb49778766e6ada1796ebe85a308713a6517b95a8c8f00be06e5cca273db"
         },
         {
             "path": "usr.img",
             "dest": "/mnt/UDISK",
             "compressed": false,
-            "hash": "c556f8d8859301aef62206c7f3124d486865023ec70fe39137896e1998675630"
+            "hash": "5df67cbcee77c7f9de66a06376107147cb16d39500615fb4ff23128047f30103"
         }
     ]
 }
