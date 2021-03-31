@@ -8,9 +8,9 @@
         },
         {
             "path": "dir_test.zip",
-            "dest": "/mnt/UDISK",
+            "dest": "/mnt/UDISK/dir_test",
             "compressed": true,
-            "hash": "f650860beddc8b0e5e1621395cf4dfbba7a62cf62b19f44986956f0f87961385"
+            "hash": "17d90b392574af78491efb186f0045fa919dd5bfe76d1b4766310a9b9a96ad71"
         },
         {
             "path": "post_update.sh",
