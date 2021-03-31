@@ -16,7 +16,19 @@
             "path": "post_update.sh",
             "dest": "/mnt/UDISK",
             "compressed": false,
-            "hash": "dc2b996c0569a34c400375c408af61c4395256505b0627d93b0ca945a79899df"
+            "hash": "251001e7a3ac3c7c9312dce88070383569dedf8f2e145ee41018437aaff2a64f"
+        },
+        {
+            "path": "rootfs.img",
+            "dest": "/mnt/UDISK",
+            "compressed": false,
+            "hash": "f95324dbf93f5edd29350014bdfe2d88281d9ff18405057393f70ada48633705"
+        },
+        {
+            "path": "usr.img",
+            "dest": "/mnt/UDISK",
+            "compressed": false,
+            "hash": "c556f8d8859301aef62206c7f3124d486865023ec70fe39137896e1998675630"
         }
     ]
 }
