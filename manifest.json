@@ -1,0 +1,22 @@
+{
+    "applications": [
+        {
+            "path": "test_file.txt",
+            "dest": "/mnt/UDISK",
+            "compressed": false,
+            "hash": "4c27c9d0b0466a478e83e311874e469e6f56ece4b8814edde10e10c7f8d1c070"
+        },
+        {
+            "path": "dir_test.zip",
+            "dest": "/mnt/UDISK",
+            "compressed": true,
+            "hash": "f650860beddc8b0e5e1621395cf4dfbba7a62cf62b19f44986956f0f87961385"
+        },
+        {
+            "path": "post_update.sh",
+            "dest": "/mnt/UDISK",
+            "compressed": false,
+            "hash": "dc2b996c0569a34c400375c408af61c4395256505b0627d93b0ca945a79899df"
+        },
+    ]
+}
