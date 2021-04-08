@@ -4,19 +4,19 @@
             "path": "post_update.sh",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "7b6d8fd3f77f5ab7d8b5c1858b3489b22b3e9e4da88bce361406fc3ac280265d"
+            "hash": "8d863c7140aa1b8ee963c094859bb674fb86d6c3bec2e9dca5ccf2c5923cb38a"
         },
         {
             "path": "rootfs.img",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "67a0694cd0b28bce7629a2324d46fed28354497fc3f930d19f1656542882e8ca"
+            "hash": "444341a8961e30b606c74b66db8d0293fb426459098c6b7884ccba663d7d2300"
         },
         {
             "path": "usr.img",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "7a9386c7386d8795ae14d2de3871ebf40b12af48c764a1697075584213749017"
+            "hash": "349255948fed7238516be85f2033ae79ae16d06e8c5dedf93de7a751298c9dc1"
         }
     ]
 }

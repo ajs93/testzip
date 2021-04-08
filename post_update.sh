@@ -42,7 +42,4 @@ fi
 
 printf "Post-update script finished.\n"
 
-printf "Performing a reboot.\n"
-reboot
-
 exit 0
