@@ -4,7 +4,7 @@
             "path": "post_update.sh",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "8d863c7140aa1b8ee963c094859bb674fb86d6c3bec2e9dca5ccf2c5923cb38a"
+            "hash": "43a64fcb067fca9c14fd0138707d5c36bd0e50c12251a683f520f5abedf5e9d7"
         },
         {
             "path": "config_template.json",
