@@ -11,6 +11,9 @@ USR_IMG_FILE="/tmp/usr.img"
 
 printf "Post-update script started.\n"
 
+printf "Updating configuration...\n"
+/tmp/config_update.sh
+
 # Real work here
 printf "Checking that all files are present...\n"
 

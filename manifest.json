@@ -7,6 +7,18 @@
             "hash": "8d863c7140aa1b8ee963c094859bb674fb86d6c3bec2e9dca5ccf2c5923cb38a"
         },
         {
+            "path": "config_template.json",
+            "dest": "/tmp",
+            "compressed": false,
+            "hash": "e36c39f854d63f48a6b78dd0df01e553540f5a765b9aa0274258f29702e2b169"
+        },
+        {
+            "path": "config_update.sh",
+            "dest": "/tmp",
+            "compressed": false,
+            "hash": "f22deaf62aed74099e7e4766349c5899a4ed5eff5fbc31f5a2506c41ffbf64e2"
+        },
+        {
             "path": "rootfs.img",
             "dest": "/tmp",
             "compressed": false,
