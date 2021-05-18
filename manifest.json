@@ -4,7 +4,19 @@
             "path": "post_update.sh",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "69b8c1a18631c8fceb55a3d23701cc3be89f6bd186827e0c5d5a4e5458302830"
+            "hash": "d24ce474626e665ba0a3447e265a485ea1fbcb261b1bfdf1358816158e6e52fb"
+        },
+        {
+            "path": "config_template.json",
+            "dest": "/tmp",
+            "compressed": false,
+            "hash": "2e1dfda701b4275a4a64255b03bb3b7e020dc56220ea6ab5664dbb61f9599d3e"
+        },
+        {
+            "path": "config_update.sh",
+            "dest": "/tmp",
+            "compressed": false,
+            "hash": "f22deaf62aed74099e7e4766349c5899a4ed5eff5fbc31f5a2506c41ffbf64e2"
         },
         {
             "path": "rootfs.img",
