@@ -4,13 +4,13 @@
             "path": "post_update.sh",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "d24ce474626e665ba0a3447e265a485ea1fbcb261b1bfdf1358816158e6e52fb"
+            "hash": "1b859892e7c817eadf1c95a1a7e4698a73a8fda9b6144c265927d9311fa2dad8"
         },
         {
             "path": "config_template.json",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "2e1dfda701b4275a4a64255b03bb3b7e020dc56220ea6ab5664dbb61f9599d3e"
+            "hash": "7de46cf3d868ef5e28d88a41bb70661243c42fce4e0801e1a1ae7fbac8020a13"
         },
         {
             "path": "config_update.sh",

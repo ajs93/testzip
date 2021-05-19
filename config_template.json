@@ -8,7 +8,7 @@
     },
     "camera_control": {
         "server": {
-            "addr": "dev-vs.mirgor.breins.net",
+            "addr": "qa-vs.mirgor.breins.net",
             "path": "/cameracontrol/websocket",
             "port": 443,
             "protocol": "pro-camera-control-service"
@@ -19,7 +19,7 @@
         }
     },
     "qr_decoder": {
-        "video_input": 0,
+        "video_input": 1,
         "video_virtual_channel": 0,
         "video_quality": "sd"
     },
@@ -33,7 +33,7 @@
         },
         "secondary_stream-disabled": {
             "encoder_channel": 1,
-            "encoder_output_quality": "sd"
+            "encoder_output_quality": "sd"       
         },
         "audio_device": 0,
         "audio_channel": 0,
