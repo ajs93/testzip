@@ -8,7 +8,7 @@
     },
     "camera_control": {
         "server": {
-            "addr": "dev-vs.mirgor.breins.net",
+            "addr": "qa-vs.mirgor.breins.net",
             "path": "/cameracontrol/websocket",
             "port": 443,
             "protocol": "pro-camera-control-service"
