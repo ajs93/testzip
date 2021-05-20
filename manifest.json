@@ -10,7 +10,7 @@
             "path": "config_template.json",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "7de46cf3d868ef5e28d88a41bb70661243c42fce4e0801e1a1ae7fbac8020a13"
+            "hash": "3b452f39f443cbdc1161768db67939a29ba441dc0527550a3eabdf492f807ded"
         },
         {
             "path": "config_update.sh",
@@ -22,13 +22,13 @@
             "path": "rootfs.img",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "66658e5cfdce832433b1e50c459bd9ed6106e0db00a9b9038de40e818d0bab77"
+            "hash": "9e386776b376154bd5051b5811cf0cf653b72361c6fde03eea58621aad1cf89a"
         },
         {
             "path": "usr.img",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "d74a0207a2ef7c05b437e75316ed4b6f6dd1cc458b35129fea9342aaa92a976f"
+            "hash": "b6ae0dcd6137f317c870563fb724ad5ec05730daad917ca82ea19465744a3cbc"
         }
     ]
 }
