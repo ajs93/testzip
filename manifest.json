@@ -22,13 +22,13 @@
             "path": "rootfs.img",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "9870e669801f9cebc2ecf3cc31bde378a048f381f76826b18a2295e69039626c"
+            "hash": "c9e262642c1dde12c74d8aca481bfa14053b9306825bf5f429c7eccd57959bba"
         },
         {
             "path": "usr.img",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "3c10c16ce1160bcb59ff9fb0ad9b5ae173dbe876d59c38daea993eb3ecd20092"
+            "hash": "2b01d8ce82c1e9698f53a49d5e2d4a1ad57637c38dd3febfd50a033823edf664"
         }
     ]
 }
