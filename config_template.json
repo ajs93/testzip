@@ -21,7 +21,7 @@
     "qr_decoder": {
         "video_input": 1,
         "video_virtual_channel": 0,
-        "video_quality": "sd"
+        "video_quality": "hd"
     },
     "rtsp_streamer": {
         "video_input": 0,
@@ -31,7 +31,7 @@
             "encoder_channel": 0,
             "encoder_output_quality": "hd"
         },
-        "secondary_stream-disabled": {
+        "secondary_stream": {
             "encoder_channel": 1,
             "encoder_output_quality": "hd"       
         },
