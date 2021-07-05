@@ -22,19 +22,19 @@
             "path": "rootfs.fex",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "77252f6bc169804af173004841ea334278a2a5780c817410df0646e4acad608d"
+            "hash": "90f54886b4f44d0059f18c9434ec5a29e9abb81af1699844ebd01e078d4c3d5c"
         },
         {
             "path": "usr.fex",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "44fbb1a871a7bf7202e02d707241cd47e5e02b6b78652179db2effa153c25b50"
+            "hash": "e266ba8a2ae54f934d6609fdaf6f3a67ad8f4624c9cc09ce1278236168b479ec"
         },
         {
             "path": "boot.fex",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "90504b1d3cce1a808a9df064de82fa5b325ab2c3ed5c7480901973a26a4d0db5"
+            "hash": "9d18217868c72d346544b5fe442a9c7fd00376dcb4dd742bae3cc27f620d5724"
         }
     ]
 }
