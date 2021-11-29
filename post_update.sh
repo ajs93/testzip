@@ -12,10 +12,6 @@ BOOT_IMG_FILE="/tmp/boot.fex"
 
 printf "Post-update script started.\n"
 
-printf "Updating configuration...\n"
-/tmp/config_update.sh
-printf "Renaming supplicant...\n"
-
 if [ -f "/mnt/UDISK/wpa_supplicant.conf" ]; then
 	mv "/mnt/UDISK/wpa_supplicant.conf" "/mnt/UDISK/main_wpa_supplicant.conf"
 fi

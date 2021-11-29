@@ -4,37 +4,25 @@
             "path": "post_update.sh",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "9189abe754e11da75c4072423c854a6e2cc1c4617f0052f48ce34449e7b3314c"
-        },
-        {
-            "path": "config_template.json",
-            "dest": "/tmp",
-            "compressed": false,
-            "hash": "b1218706606021e0991d8832af8b716e85307dd374e8c1e0baf84d0fce82539a"
-        },
-        {
-            "path": "config_update.sh",
-            "dest": "/tmp",
-            "compressed": false,
-            "hash": "f22deaf62aed74099e7e4766349c5899a4ed5eff5fbc31f5a2506c41ffbf64e2"
+            "hash": "6314df725a76ffab26973c6b9a63ffcef2377cd350ff0b74145bfb3fb8294633"
         },
         {
             "path": "rootfs.fex",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "a05297df00df2b397dae37618a557f79f2fe58015639ef3f270f0aea617c5266"
+            "hash": "9ef8e581f03ce69bfd30181588ed38d63eb67bf4c8697008df8b3c0f06f0e04a"
         },
         {
             "path": "usr.fex",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "8ff59b9c671182e4c17dbc882d6a4595c715874caff265a640cbbb87f2177635"
+            "hash": "f3a908ea075eebbbe974943fa137759a62c188178af9eefc8af17a96c85c61b4"
         },
         {
             "path": "boot.fex",
             "dest": "/tmp",
             "compressed": false,
-            "hash": "c1aae3650269074ca1de6add0597fd2f8b2ef81289f7dfd93964828c2dfa55ca"
+            "hash": "f54a69457a308946b432019e49e5b86ed8eba129b27000edaf4b7e6debe83f57"
         }
     ]
 }
